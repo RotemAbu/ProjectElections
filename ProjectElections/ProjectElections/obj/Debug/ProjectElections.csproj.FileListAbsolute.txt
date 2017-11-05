@@ -1,0 +1,1478 @@
+C:\Users\rotem\Desktop\תהליכי יצור\visual\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe.config
+C:\Users\rotem\Desktop\תהליכי יצור\visual\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Login.resources
+C:\Users\rotem\Desktop\תהליכי יצור\visual\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ManagerMenu.resources
+C:\Users\rotem\Desktop\תהליכי יצור\visual\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Properties.Resources.resources
+C:\Users\rotem\Desktop\תהליכי יצור\visual\ProjectElections\ProjectElections\obj\Debug\ProjectElections.VoterMenu.resources
+C:\Users\rotem\Desktop\תהליכי יצור\visual\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csproj.GenerateResource.Cache
+C:\Users\rotem\Desktop\תהליכי יצור\visual\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe
+C:\Users\rotem\Desktop\תהליכי יצור\visual\ProjectElections\ProjectElections\bin\Debug\ProjectElections.pdb
+C:\Users\rotem\Desktop\תהליכי יצור\visual\ProjectElections\ProjectElections\obj\Debug\ProjectElections.exe
+C:\Users\rotem\Desktop\תהליכי יצור\visual\ProjectElections\ProjectElections\obj\Debug\ProjectElections.pdb
+C:\Users\rotem\Desktop\תהליכי יצור\visual\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Form1.resources
+C:\Users\rotem\Desktop\תהליכי יצור\visual\ProjectElections\ProjectElections\obj\Debug\ProjectElections.showDetails.resources
+C:\Users\rotem\Desktop\תהליכי יצור\visual\ProjectElections\ProjectElections\obj\Debug\ProjectElections.updateMemberParty.resources
+C:\Users\rotem\Desktop\תהליכי יצור\visual\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompanierId.resources
+C:\Users\rotem\Desktop\תהליכי יצור\visual\ProjectElections\ProjectElections\obj\Debug\ProjectElections.changePass.resources
+C:\Users\rotem\Desktop\תהליכי יצור\visual\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewParty.resources
+C:\Users\snird_000\Desktop\הפרוייק\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompanierId.resources
+C:\Users\snird_000\Desktop\הפרוייק\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewParty.resources
+C:\Users\snird_000\Desktop\הפרוייק\ProjectElections\ProjectElections\obj\Debug\ProjectElections.changePass.resources
+C:\Users\snird_000\Desktop\הפרוייק\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Form1.resources
+C:\Users\snird_000\Desktop\הפרוייק\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Login.resources
+C:\Users\snird_000\Desktop\הפרוייק\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ManagerMenu.resources
+C:\Users\snird_000\Desktop\הפרוייק\ProjectElections\ProjectElections\obj\Debug\ProjectElections.showDetails.resources
+C:\Users\snird_000\Desktop\הפרוייק\ProjectElections\ProjectElections\obj\Debug\ProjectElections.updateMemberParty.resources
+C:\Users\snird_000\Desktop\הפרוייק\ProjectElections\ProjectElections\obj\Debug\ProjectElections.VoterMenu.resources
+C:\Users\snird_000\Desktop\הפרוייק\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csproj.GenerateResource.Cache
+C:\Users\snird_000\Desktop\הפרוייק\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Properties.Resources.resources
+C:\Users\snird_000\Desktop\הפרוייק\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe.config
+C:\Users\snird_000\Desktop\הפרוייק\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe
+C:\Users\snird_000\Desktop\הפרוייק\ProjectElections\ProjectElections\bin\Debug\ProjectElections.pdb
+C:\Users\snird_000\Desktop\הפרוייק\ProjectElections\ProjectElections\obj\Debug\ProjectElections.exe
+C:\Users\snird_000\Desktop\הפרוייק\ProjectElections\ProjectElections\obj\Debug\ProjectElections.pdb
+C:\Users\snird_000\Desktop\הפרוייק\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdatePartyDetails.resources
+C:\Users\snird_000\Desktop\הפרוייק\ProjectElections\ProjectElections\obj\Debug\ProjectElections.removeParty.resources
+C:\Users\snird_000\Desktop\הפרוייק\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csprojResolveAssemblyReference.cache
+C:\Users\snird_000\Desktop\הפרוייקט\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe.config
+C:\Users\snird_000\Desktop\הפרוייקט\ProjectElections\ProjectElections\obj\Debug\ProjectElections.exe
+C:\Users\snird_000\Desktop\הפרוייקט\ProjectElections\ProjectElections\obj\Debug\ProjectElections.pdb
+C:\Users\snird_000\Desktop\הפרוייקט\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe
+C:\Users\snird_000\Desktop\הפרוייקט\ProjectElections\ProjectElections\bin\Debug\ProjectElections.pdb
+C:\Users\snird_000\Desktop\הפרוייקט\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csprojResolveAssemblyReference.cache
+C:\Users\snird_000\Desktop\הפרוייקט\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompanierId.resources
+C:\Users\snird_000\Desktop\הפרוייקט\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewParty.resources
+C:\Users\snird_000\Desktop\הפרוייקט\ProjectElections\ProjectElections\obj\Debug\ProjectElections.changePass.resources
+C:\Users\snird_000\Desktop\הפרוייקט\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Form1.resources
+C:\Users\snird_000\Desktop\הפרוייקט\ProjectElections\ProjectElections\obj\Debug\ProjectElections.removeParty.resources
+C:\Users\snird_000\Desktop\הפרוייקט\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Login.resources
+C:\Users\snird_000\Desktop\הפרוייקט\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ManagerMenu.resources
+C:\Users\snird_000\Desktop\הפרוייקט\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Properties.Resources.resources
+C:\Users\snird_000\Desktop\הפרוייקט\ProjectElections\ProjectElections\obj\Debug\ProjectElections.showDetails.resources
+C:\Users\snird_000\Desktop\הפרוייקט\ProjectElections\ProjectElections\obj\Debug\ProjectElections.updateMemberParty.resources
+C:\Users\snird_000\Desktop\הפרוייקט\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdatePartyDetails.resources
+C:\Users\snird_000\Desktop\הפרוייקט\ProjectElections\ProjectElections\obj\Debug\ProjectElections.VoterMenu.resources
+C:\Users\snird_000\Desktop\הפרוייקט\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csproj.GenerateResource.Cache
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe.config
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.exe
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.pdb
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\bin\Debug\ProjectElections.pdb
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompanierId.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewParty.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddPartyMember.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.changePass.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Form1.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveMember.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.removeParty.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Login.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ManagerMenu.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Properties.Resources.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.showDetails.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.updateMemberParty.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdatePartyDetails.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.VoterMenu.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csproj.GenerateResource.Cache
+C:\Users\rotem\Google Drive\תהליכי ייצור ואחזקה\Project\פרוייקט 04_10\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe.config
+C:\Users\rotem\Google Drive\תהליכי ייצור ואחזקה\Project\פרוייקט 04_10\ProjectElections\ProjectElections\obj\Debug\ProjectElections.exe
+C:\Users\rotem\Google Drive\תהליכי ייצור ואחזקה\Project\פרוייקט 04_10\ProjectElections\ProjectElections\obj\Debug\ProjectElections.pdb
+C:\Users\rotem\Google Drive\תהליכי ייצור ואחזקה\Project\פרוייקט 04_10\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe
+C:\Users\rotem\Google Drive\תהליכי ייצור ואחזקה\Project\פרוייקט 04_10\ProjectElections\ProjectElections\bin\Debug\ProjectElections.pdb
+C:\Users\rotem\Google Drive\תהליכי ייצור ואחזקה\Project\פרוייקט 04_10\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csprojResolveAssemblyReference.cache
+C:\Users\rotem\Google Drive\תהליכי ייצור ואחזקה\Project\פרוייקט 04_10\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompanierId.resources
+C:\Users\rotem\Google Drive\תהליכי ייצור ואחזקה\Project\פרוייקט 04_10\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewParty.resources
+C:\Users\rotem\Google Drive\תהליכי ייצור ואחזקה\Project\פרוייקט 04_10\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddPartyMember.resources
+C:\Users\rotem\Google Drive\תהליכי ייצור ואחזקה\Project\פרוייקט 04_10\ProjectElections\ProjectElections\obj\Debug\ProjectElections.changePass.resources
+C:\Users\rotem\Google Drive\תהליכי ייצור ואחזקה\Project\פרוייקט 04_10\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Form1.resources
+C:\Users\rotem\Google Drive\תהליכי ייצור ואחזקה\Project\פרוייקט 04_10\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveMember.resources
+C:\Users\rotem\Google Drive\תהליכי ייצור ואחזקה\Project\פרוייקט 04_10\ProjectElections\ProjectElections\obj\Debug\ProjectElections.removeParty.resources
+C:\Users\rotem\Google Drive\תהליכי ייצור ואחזקה\Project\פרוייקט 04_10\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Login.resources
+C:\Users\rotem\Google Drive\תהליכי ייצור ואחזקה\Project\פרוייקט 04_10\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ManagerMenu.resources
+C:\Users\rotem\Google Drive\תהליכי ייצור ואחזקה\Project\פרוייקט 04_10\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Properties.Resources.resources
+C:\Users\rotem\Google Drive\תהליכי ייצור ואחזקה\Project\פרוייקט 04_10\ProjectElections\ProjectElections\obj\Debug\ProjectElections.showDetails.resources
+C:\Users\rotem\Google Drive\תהליכי ייצור ואחזקה\Project\פרוייקט 04_10\ProjectElections\ProjectElections\obj\Debug\ProjectElections.updateMemberParty.resources
+C:\Users\rotem\Google Drive\תהליכי ייצור ואחזקה\Project\פרוייקט 04_10\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdatePartyDetails.resources
+C:\Users\rotem\Google Drive\תהליכי ייצור ואחזקה\Project\פרוייקט 04_10\ProjectElections\ProjectElections\obj\Debug\ProjectElections.VoterMenu.resources
+C:\Users\rotem\Google Drive\תהליכי ייצור ואחזקה\Project\פרוייקט 04_10\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csproj.GenerateResource.Cache
+C:\Users\Arnold\Google Drive\תהליכי ייצור ואחזקה\Project\פרוייקט 04_10\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe.config
+C:\Users\Arnold\Google Drive\תהליכי ייצור ואחזקה\Project\פרוייקט 04_10\ProjectElections\ProjectElections\obj\Debug\ProjectElections.exe
+C:\Users\Arnold\Google Drive\תהליכי ייצור ואחזקה\Project\פרוייקט 04_10\ProjectElections\ProjectElections\obj\Debug\ProjectElections.pdb
+C:\Users\Arnold\Google Drive\תהליכי ייצור ואחזקה\Project\פרוייקט 04_10\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csprojResolveAssemblyReference.cache
+C:\Users\Arnold\Google Drive\תהליכי ייצור ואחזקה\Project\פרוייקט 04_10\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompanierId.resources
+C:\Users\Arnold\Google Drive\תהליכי ייצור ואחזקה\Project\פרוייקט 04_10\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewParty.resources
+C:\Users\Arnold\Google Drive\תהליכי ייצור ואחזקה\Project\פרוייקט 04_10\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddPartyMember.resources
+C:\Users\Arnold\Google Drive\תהליכי ייצור ואחזקה\Project\פרוייקט 04_10\ProjectElections\ProjectElections\obj\Debug\ProjectElections.changePass.resources
+C:\Users\Arnold\Google Drive\תהליכי ייצור ואחזקה\Project\פרוייקט 04_10\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Form1.resources
+C:\Users\Arnold\Google Drive\תהליכי ייצור ואחזקה\Project\פרוייקט 04_10\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveMember.resources
+C:\Users\Arnold\Google Drive\תהליכי ייצור ואחזקה\Project\פרוייקט 04_10\ProjectElections\ProjectElections\obj\Debug\ProjectElections.removeParty.resources
+C:\Users\Arnold\Google Drive\תהליכי ייצור ואחזקה\Project\פרוייקט 04_10\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Login.resources
+C:\Users\Arnold\Google Drive\תהליכי ייצור ואחזקה\Project\פרוייקט 04_10\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ManagerMenu.resources
+C:\Users\Arnold\Google Drive\תהליכי ייצור ואחזקה\Project\פרוייקט 04_10\ProjectElections\ProjectElections\obj\Debug\ProjectElections.showDetails.resources
+C:\Users\Arnold\Google Drive\תהליכי ייצור ואחזקה\Project\פרוייקט 04_10\ProjectElections\ProjectElections\obj\Debug\ProjectElections.updateMemberParty.resources
+C:\Users\Arnold\Google Drive\תהליכי ייצור ואחזקה\Project\פרוייקט 04_10\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdatePartyDetails.resources
+C:\Users\Arnold\Google Drive\תהליכי ייצור ואחזקה\Project\פרוייקט 04_10\ProjectElections\ProjectElections\obj\Debug\ProjectElections.VoterMenu.resources
+C:\Users\Arnold\Google Drive\תהליכי ייצור ואחזקה\Project\פרוייקט 04_10\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csproj.GenerateResource.Cache
+C:\Users\rotem\Desktop\תהליכי יצור\visual\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddPartyMember.resources
+C:\Users\rotem\Desktop\תהליכי יצור\visual\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveMember.resources
+C:\Users\rotem\Desktop\תהליכי יצור\visual\ProjectElections\ProjectElections\obj\Debug\ProjectElections.removeParty.resources
+C:\Users\rotem\Desktop\תהליכי יצור\visual\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdatePartyDetails.resources
+C:\Users\rotem\Google Drive\תהליכי ייצור ואחזקה\Project\פרוייקט 04_11\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe.config
+C:\Users\rotem\Google Drive\תהליכי ייצור ואחזקה\Project\פרוייקט 04_11\ProjectElections\ProjectElections\obj\Debug\ProjectElections.exe
+C:\Users\rotem\Google Drive\תהליכי ייצור ואחזקה\Project\פרוייקט 04_11\ProjectElections\ProjectElections\obj\Debug\ProjectElections.pdb
+C:\Users\aviva\Downloads\ProjectElections-2015-04-11\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe.config
+C:\Users\aviva\Downloads\ProjectElections-2015-04-11\ProjectElections\ProjectElections\obj\Debug\ProjectElections.exe
+C:\Users\aviva\Downloads\ProjectElections-2015-04-11\ProjectElections\ProjectElections\obj\Debug\ProjectElections.pdb
+C:\Users\rotem\Desktop\ProjectElections-2015-04-11\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe.config
+C:\Users\rotem\Desktop\ProjectElections-2015-04-11\ProjectElections\ProjectElections\obj\Debug\ProjectElections.exe
+C:\Users\rotem\Desktop\ProjectElections-2015-04-11\ProjectElections\ProjectElections\obj\Debug\ProjectElections.pdb
+C:\Users\rotem\Desktop\ProjectElections-2015-04-11\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe
+C:\Users\rotem\Desktop\ProjectElections-2015-04-11\ProjectElections\ProjectElections\bin\Debug\ProjectElections.pdb
+C:\Users\rotem\Desktop\ProjectElections-2015-04-11\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csprojResolveAssemblyReference.cache
+C:\Users\rotem\Desktop\ProjectElections-2015-04-11\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompanierId.resources
+C:\Users\rotem\Desktop\ProjectElections-2015-04-11\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewParty.resources
+C:\Users\rotem\Desktop\ProjectElections-2015-04-11\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddPartyMember.resources
+C:\Users\rotem\Desktop\ProjectElections-2015-04-11\ProjectElections\ProjectElections\obj\Debug\ProjectElections.changePass.resources
+C:\Users\rotem\Desktop\ProjectElections-2015-04-11\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Form1.resources
+C:\Users\rotem\Desktop\ProjectElections-2015-04-11\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveMember.resources
+C:\Users\rotem\Desktop\ProjectElections-2015-04-11\ProjectElections\ProjectElections\obj\Debug\ProjectElections.removeParty.resources
+C:\Users\rotem\Desktop\ProjectElections-2015-04-11\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Login.resources
+C:\Users\rotem\Desktop\ProjectElections-2015-04-11\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ManagerMenu.resources
+C:\Users\rotem\Desktop\ProjectElections-2015-04-11\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Properties.Resources.resources
+C:\Users\rotem\Desktop\ProjectElections-2015-04-11\ProjectElections\ProjectElections\obj\Debug\ProjectElections.showDetails.resources
+C:\Users\rotem\Desktop\ProjectElections-2015-04-11\ProjectElections\ProjectElections\obj\Debug\ProjectElections.updateMemberParty.resources
+C:\Users\rotem\Desktop\ProjectElections-2015-04-11\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdatePartyDetails.resources
+C:\Users\rotem\Desktop\ProjectElections-2015-04-11\ProjectElections\ProjectElections\obj\Debug\ProjectElections.VoterMenu.resources
+C:\Users\rotem\Desktop\ProjectElections-2015-04-11\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csproj.GenerateResource.Cache
+C:\Users\אלכס\Desktop\פרוייקט 04_12\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe.config
+C:\Users\אלכס\Desktop\פרוייקט 04_12\ProjectElections\ProjectElections\obj\Debug\ProjectElections.exe
+C:\Users\אלכס\Desktop\פרוייקט 04_12\ProjectElections\ProjectElections\obj\Debug\ProjectElections.pdb
+C:\Users\אלכס\Desktop\פרוייקט 04_12\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe
+C:\Users\אלכס\Desktop\פרוייקט 04_12\ProjectElections\ProjectElections\bin\Debug\ProjectElections.pdb
+C:\Users\אלכס\Desktop\פרוייקט 04_12\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csprojResolveAssemblyReference.cache
+C:\Users\אלכס\Desktop\פרוייקט 04_12\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompanierId.resources
+C:\Users\אלכס\Desktop\פרוייקט 04_12\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewParty.resources
+C:\Users\אלכס\Desktop\פרוייקט 04_12\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddPartyMember.resources
+C:\Users\אלכס\Desktop\פרוייקט 04_12\ProjectElections\ProjectElections\obj\Debug\ProjectElections.changePass.resources
+C:\Users\אלכס\Desktop\פרוייקט 04_12\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Form1.resources
+C:\Users\אלכס\Desktop\פרוייקט 04_12\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveMember.resources
+C:\Users\אלכס\Desktop\פרוייקט 04_12\ProjectElections\ProjectElections\obj\Debug\ProjectElections.removeParty.resources
+C:\Users\אלכס\Desktop\פרוייקט 04_12\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Login.resources
+C:\Users\אלכס\Desktop\פרוייקט 04_12\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ManagerMenu.resources
+C:\Users\אלכס\Desktop\פרוייקט 04_12\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Properties.Resources.resources
+C:\Users\אלכס\Desktop\פרוייקט 04_12\ProjectElections\ProjectElections\obj\Debug\ProjectElections.showDetails.resources
+C:\Users\אלכס\Desktop\פרוייקט 04_12\ProjectElections\ProjectElections\obj\Debug\ProjectElections.updateMemberParty.resources
+C:\Users\אלכס\Desktop\פרוייקט 04_12\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdatePartyDetails.resources
+C:\Users\אלכס\Desktop\פרוייקט 04_12\ProjectElections\ProjectElections\obj\Debug\ProjectElections.VoterMenu.resources
+C:\Users\אלכס\Desktop\פרוייקט 04_12\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csproj.GenerateResource.Cache
+D:\הורדות\פרוייקט_04_12-2015-04-12\פרוייקט 04_12\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe.config
+D:\הורדות\פרוייקט_04_12-2015-04-12\פרוייקט 04_12\ProjectElections\ProjectElections\obj\Debug\ProjectElections.exe
+D:\הורדות\פרוייקט_04_12-2015-04-12\פרוייקט 04_12\ProjectElections\ProjectElections\obj\Debug\ProjectElections.pdb
+D:\הורדות\פרוייקט_04_12-2015-04-12\פרוייקט 04_12\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe
+D:\הורדות\פרוייקט_04_12-2015-04-12\פרוייקט 04_12\ProjectElections\ProjectElections\bin\Debug\ProjectElections.pdb
+D:\הורדות\פרוייקט_04_12-2015-04-12\פרוייקט 04_12\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csprojResolveAssemblyReference.cache
+D:\הורדות\פרוייקט_04_12-2015-04-12\פרוייקט 04_12\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompanierId.resources
+D:\הורדות\פרוייקט_04_12-2015-04-12\פרוייקט 04_12\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewParty.resources
+D:\הורדות\פרוייקט_04_12-2015-04-12\פרוייקט 04_12\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddPartyMember.resources
+D:\הורדות\פרוייקט_04_12-2015-04-12\פרוייקט 04_12\ProjectElections\ProjectElections\obj\Debug\ProjectElections.changePass.resources
+D:\הורדות\פרוייקט_04_12-2015-04-12\פרוייקט 04_12\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Form1.resources
+D:\הורדות\פרוייקט_04_12-2015-04-12\פרוייקט 04_12\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveMember.resources
+D:\הורדות\פרוייקט_04_12-2015-04-12\פרוייקט 04_12\ProjectElections\ProjectElections\obj\Debug\ProjectElections.removeParty.resources
+D:\הורדות\פרוייקט_04_12-2015-04-12\פרוייקט 04_12\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Login.resources
+D:\הורדות\פרוייקט_04_12-2015-04-12\פרוייקט 04_12\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ManagerMenu.resources
+D:\הורדות\פרוייקט_04_12-2015-04-12\פרוייקט 04_12\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Properties.Resources.resources
+D:\הורדות\פרוייקט_04_12-2015-04-12\פרוייקט 04_12\ProjectElections\ProjectElections\obj\Debug\ProjectElections.showDetails.resources
+D:\הורדות\פרוייקט_04_12-2015-04-12\פרוייקט 04_12\ProjectElections\ProjectElections\obj\Debug\ProjectElections.updateMemberParty.resources
+D:\הורדות\פרוייקט_04_12-2015-04-12\פרוייקט 04_12\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdatePartyDetails.resources
+D:\הורדות\פרוייקט_04_12-2015-04-12\פרוייקט 04_12\ProjectElections\ProjectElections\obj\Debug\ProjectElections.VoterMenu.resources
+D:\הורדות\פרוייקט_04_12-2015-04-12\פרוייקט 04_12\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csproj.GenerateResource.Cache
+C:\Users\ElivDahan\Desktop\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe.config
+C:\Users\ElivDahan\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.exe
+C:\Users\ElivDahan\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.pdb
+C:\Users\ElivDahan\Desktop\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe
+C:\Users\ElivDahan\Desktop\ProjectElections\ProjectElections\bin\Debug\ProjectElections.pdb
+C:\Users\ElivDahan\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csprojResolveAssemblyReference.cache
+C:\Users\ElivDahan\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompanierId.resources
+C:\Users\ElivDahan\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewParty.resources
+C:\Users\ElivDahan\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddPartyMember.resources
+C:\Users\ElivDahan\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.changePass.resources
+C:\Users\ElivDahan\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Form1.resources
+C:\Users\ElivDahan\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveMember.resources
+C:\Users\ElivDahan\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.removeParty.resources
+C:\Users\ElivDahan\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Login.resources
+C:\Users\ElivDahan\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ManagerMenu.resources
+C:\Users\ElivDahan\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Properties.Resources.resources
+C:\Users\ElivDahan\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.showDetails.resources
+C:\Users\ElivDahan\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.updateMemberParty.resources
+C:\Users\ElivDahan\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdatePartyDetails.resources
+C:\Users\ElivDahan\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.VoterMenu.resources
+C:\Users\ElivDahan\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csproj.GenerateResource.Cache
+C:\Users\ElivDahan\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Vote_page.resources
+C:\Users\ElivDahan\Desktop\Sprint1_Final\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe.config
+C:\Users\ElivDahan\Desktop\Sprint1_Final\ProjectElections\ProjectElections\obj\Debug\ProjectElections.exe
+C:\Users\ElivDahan\Desktop\Sprint1_Final\ProjectElections\ProjectElections\obj\Debug\ProjectElections.pdb
+D:\הורדות\Sprint1_Final-2015-04-12\Sprint1_Final\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe.config
+D:\הורדות\Sprint1_Final-2015-04-12\Sprint1_Final\ProjectElections\ProjectElections\obj\Debug\ProjectElections.exe
+D:\הורדות\Sprint1_Final-2015-04-12\Sprint1_Final\ProjectElections\ProjectElections\obj\Debug\ProjectElections.pdb
+C:\Users\Misha\Desktop\Sprint1_הגשה-2015-04-12\Sprint1 הגשה\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe.config
+C:\Users\Misha\Desktop\Sprint1_הגשה-2015-04-12\Sprint1 הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.exe
+C:\Users\Misha\Desktop\Sprint1_הגשה-2015-04-12\Sprint1 הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.pdb
+C:\Users\Misha\Desktop\Code\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe.config
+C:\Users\Misha\Desktop\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.exe
+C:\Users\Misha\Desktop\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.pdb
+C:\Users\Misha\Desktop\הקובץ שהוגש- ספרינט 1\12\Code\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe.config
+C:\Users\Misha\Desktop\הקובץ שהוגש- ספרינט 1\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.exe
+C:\Users\Misha\Desktop\הקובץ שהוגש- ספרינט 1\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.pdb
+C:\Users\Misha\Desktop\הקובץ שהוגש- ספרינט 1\12\Code\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe
+C:\Users\Misha\Desktop\הקובץ שהוגש- ספרינט 1\12\Code\ProjectElections\ProjectElections\bin\Debug\ProjectElections.pdb
+C:\Users\Misha\Desktop\הקובץ שהוגש- ספרינט 1\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csprojResolveAssemblyReference.cache
+C:\Users\Misha\Desktop\הקובץ שהוגש- ספרינט 1\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompanierId.resources
+C:\Users\Misha\Desktop\הקובץ שהוגש- ספרינט 1\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewParty.resources
+C:\Users\Misha\Desktop\הקובץ שהוגש- ספרינט 1\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddPartyMember.resources
+C:\Users\Misha\Desktop\הקובץ שהוגש- ספרינט 1\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.changePass.resources
+C:\Users\Misha\Desktop\הקובץ שהוגש- ספרינט 1\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Form1.resources
+C:\Users\Misha\Desktop\הקובץ שהוגש- ספרינט 1\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveMember.resources
+C:\Users\Misha\Desktop\הקובץ שהוגש- ספרינט 1\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.removeParty.resources
+C:\Users\Misha\Desktop\הקובץ שהוגש- ספרינט 1\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Login.resources
+C:\Users\Misha\Desktop\הקובץ שהוגש- ספרינט 1\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ManagerMenu.resources
+C:\Users\Misha\Desktop\הקובץ שהוגש- ספרינט 1\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Properties.Resources.resources
+C:\Users\Misha\Desktop\הקובץ שהוגש- ספרינט 1\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.showDetails.resources
+C:\Users\Misha\Desktop\הקובץ שהוגש- ספרינט 1\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.updateMemberParty.resources
+C:\Users\Misha\Desktop\הקובץ שהוגש- ספרינט 1\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdatePartyDetails.resources
+C:\Users\Misha\Desktop\הקובץ שהוגש- ספרינט 1\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.VoterMenu.resources
+C:\Users\Misha\Desktop\הקובץ שהוגש- ספרינט 1\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Vote_page.resources
+C:\Users\Misha\Desktop\הקובץ שהוגש- ספרינט 1\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csproj.GenerateResource.Cache
+C:\Users\Misha\Desktop\הקובץ שהוגש- ספרינט 1 -\12\Code\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe.config
+C:\Users\Misha\Desktop\הקובץ שהוגש- ספרינט 1 -\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.exe
+C:\Users\Misha\Desktop\הקובץ שהוגש- ספרינט 1 -\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.pdb
+C:\Users\Misha\Desktop\הקובץ שהוגש- ספרינט 1 -\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csprojResolveAssemblyReference.cache
+C:\Users\Misha\Desktop\הקובץ שהוגש- ספרינט 1 -\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompanierId.resources
+C:\Users\Misha\Desktop\הקובץ שהוגש- ספרינט 1 -\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewParty.resources
+C:\Users\Misha\Desktop\הקובץ שהוגש- ספרינט 1 -\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddPartyMember.resources
+C:\Users\Misha\Desktop\הקובץ שהוגש- ספרינט 1 -\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.changePass.resources
+C:\Users\Misha\Desktop\הקובץ שהוגש- ספרינט 1 -\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Form1.resources
+C:\Users\Misha\Desktop\הקובץ שהוגש- ספרינט 1 -\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveMember.resources
+C:\Users\Misha\Desktop\הקובץ שהוגש- ספרינט 1 -\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.removeParty.resources
+C:\Users\Misha\Desktop\הקובץ שהוגש- ספרינט 1 -\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Login.resources
+C:\Users\Misha\Desktop\הקובץ שהוגש- ספרינט 1 -\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ManagerMenu.resources
+C:\Users\Misha\Desktop\הקובץ שהוגש- ספרינט 1 -\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Properties.Resources.resources
+C:\Users\Misha\Desktop\הקובץ שהוגש- ספרינט 1 -\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.showDetails.resources
+C:\Users\Misha\Desktop\הקובץ שהוגש- ספרינט 1 -\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.updateMemberParty.resources
+C:\Users\Misha\Desktop\הקובץ שהוגש- ספרינט 1 -\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdatePartyDetails.resources
+C:\Users\Misha\Desktop\הקובץ שהוגש- ספרינט 1 -\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.VoterMenu.resources
+C:\Users\Misha\Desktop\הקובץ שהוגש- ספרינט 1 -\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Vote_page.resources
+C:\Users\Misha\Desktop\הקובץ שהוגש- ספרינט 1 -\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csproj.GenerateResource.Cache
+C:\Users\Misha\Desktop\הקובץ שהוגש- ספרינט 1 -\12\Code\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe
+C:\Users\Misha\Desktop\הקובץ שהוגש- ספרינט 1 -\12\Code\ProjectElections\ProjectElections\bin\Debug\ProjectElections.pdb
+C:\Users\Misha\Desktop\NEW_Project 17.4.15\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe.config
+C:\Users\Misha\Desktop\NEW_Project 17.4.15\ProjectElections\ProjectElections\obj\Debug\ProjectElections.exe
+C:\Users\Misha\Desktop\NEW_Project 17.4.15\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csprojResolveAssemblyReference.cache
+C:\Users\Misha\Desktop\NEW_Project 17.4.15\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompanierId.resources
+C:\Users\Misha\Desktop\NEW_Project 17.4.15\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewParty.resources
+C:\Users\Misha\Desktop\NEW_Project 17.4.15\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddPartyMember.resources
+C:\Users\Misha\Desktop\NEW_Project 17.4.15\ProjectElections\ProjectElections\obj\Debug\ProjectElections.changePass.resources
+C:\Users\Misha\Desktop\NEW_Project 17.4.15\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Form1.resources
+C:\Users\Misha\Desktop\NEW_Project 17.4.15\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Kalpi_Manager_Menu.resources
+C:\Users\Misha\Desktop\NEW_Project 17.4.15\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveMember.resources
+C:\Users\Misha\Desktop\NEW_Project 17.4.15\ProjectElections\ProjectElections\obj\Debug\ProjectElections.removeParty.resources
+C:\Users\Misha\Desktop\NEW_Project 17.4.15\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Login.resources
+C:\Users\Misha\Desktop\NEW_Project 17.4.15\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ManagerMenu.resources
+C:\Users\Misha\Desktop\NEW_Project 17.4.15\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Properties.Resources.resources
+C:\Users\Misha\Desktop\NEW_Project 17.4.15\ProjectElections\ProjectElections\obj\Debug\ProjectElections.showDetails.resources
+C:\Users\Misha\Desktop\NEW_Project 17.4.15\ProjectElections\ProjectElections\obj\Debug\ProjectElections.updateMemberParty.resources
+C:\Users\Misha\Desktop\NEW_Project 17.4.15\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdatePartyDetails.resources
+C:\Users\Misha\Desktop\NEW_Project 17.4.15\ProjectElections\ProjectElections\obj\Debug\ProjectElections.VoterMenu.resources
+C:\Users\Misha\Desktop\NEW_Project 17.4.15\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Vote_page.resources
+C:\Users\Misha\Desktop\NEW_Project 17.4.15\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csproj.GenerateResource.Cache
+C:\Users\Misha\Desktop\NEW_Project 17.4.15\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe
+C:\Users\Misha\Desktop\NEW_Project 17.4.15\ProjectElections\ProjectElections\bin\Debug\ProjectElections.pdb
+C:\Users\Misha\Desktop\NEW_Project 17.4.15\ProjectElections\ProjectElections\obj\Debug\ProjectElections.pdb
+C:\Users\rotem\Desktop\תהליכי יצור\visual\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Kalpi_Manager_Menu.resources
+C:\Users\rotem\Desktop\תהליכי יצור\visual\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Vote_page.resources
+C:\Users\rotem\Desktop\תהליכי יצור\visual\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowParties.resources
+C:\Users\rotem\Desktop\תהליכי יצור\visual\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowPrimeMinister.resources
+C:\Users\rotem\Desktop\תהליכי יצור\visual\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Kalpi_Add_Accompannier.resources
+C:\Users\rotem\Desktop\תהליכי יצור\visual\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateVoter.resources
+C:\Users\rotem\Desktop\תהליכי יצור\visual\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchPartiesByName.resources
+C:\Users\rotem\Desktop\תהליכי יצור\visual\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchPartyMemberByName.resources
+C:\Users\rotem\Desktop\תהליכי יצור\visual\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ChangeKalpi.resources
+C:\Users\rotem\Desktop\Sprint 2\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe.config
+C:\Users\rotem\Desktop\Sprint 2\ProjectElections\ProjectElections\obj\Debug\ProjectElections.exe
+C:\Users\rotem\Desktop\Sprint 2\ProjectElections\ProjectElections\obj\Debug\ProjectElections.pdb
+C:\Users\rotem\Desktop\Sprint 2\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe
+C:\Users\rotem\Desktop\Sprint 2\ProjectElections\ProjectElections\bin\Debug\ProjectElections.pdb
+C:\Users\rotem\Desktop\Sprint 2\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompanierId.resources
+C:\Users\rotem\Desktop\Sprint 2\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewParty.resources
+C:\Users\rotem\Desktop\Sprint 2\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddPartyMember.resources
+C:\Users\rotem\Desktop\Sprint 2\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ChangeKalpi.resources
+C:\Users\rotem\Desktop\Sprint 2\ProjectElections\ProjectElections\obj\Debug\ProjectElections.changePass.resources
+C:\Users\rotem\Desktop\Sprint 2\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Form1.resources
+C:\Users\rotem\Desktop\Sprint 2\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveMember.resources
+C:\Users\rotem\Desktop\Sprint 2\ProjectElections\ProjectElections\obj\Debug\ProjectElections.removeParty.resources
+C:\Users\rotem\Desktop\Sprint 2\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Login.resources
+C:\Users\rotem\Desktop\Sprint 2\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ManagerMenu.resources
+C:\Users\rotem\Desktop\Sprint 2\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Properties.Resources.resources
+C:\Users\rotem\Desktop\Sprint 2\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchPartiesByName.resources
+C:\Users\rotem\Desktop\Sprint 2\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchPartyMemberByName.resources
+C:\Users\rotem\Desktop\Sprint 2\ProjectElections\ProjectElections\obj\Debug\ProjectElections.showDetails.resources
+C:\Users\rotem\Desktop\Sprint 2\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowParties.resources
+C:\Users\rotem\Desktop\Sprint 2\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowPrimeMinister.resources
+C:\Users\rotem\Desktop\Sprint 2\ProjectElections\ProjectElections\obj\Debug\ProjectElections.updateMemberParty.resources
+C:\Users\rotem\Desktop\Sprint 2\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdatePartyDetails.resources
+C:\Users\rotem\Desktop\Sprint 2\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateVoter.resources
+C:\Users\rotem\Desktop\Sprint 2\ProjectElections\ProjectElections\obj\Debug\ProjectElections.VoterMenu.resources
+C:\Users\rotem\Desktop\Sprint 2\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Vote_page.resources
+C:\Users\rotem\Desktop\Sprint 2\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csproj.GenerateResource.Cache
+C:\Users\rotem\Desktop\Sprint 2\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddVoterToKalpi.resources
+C:\Users\rotem\Desktop\Sprint 2\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveVoterFromKalpi.resources
+C:\Users\rotem\Desktop\Sprint 2\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompKalpMan.resources
+C:\Users\rotem\Desktop\Sprint 2\ProjectElections\ProjectElections\obj\Debug\ProjectElections.searchVoterKalpiMan.resources
+C:\Users\rotem\Desktop\Sprint 2\ProjectElections\ProjectElections\obj\Debug\ProjectElections.WatchKalpi.resources
+C:\Users\rotem\Desktop\Sprint 2\ProjectElections\ProjectElections\obj\Debug\ProjectElections.BlockCitizen.resources
+C:\Users\rotem\Desktop\Sprint 2\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UnblockCitizen.resources
+C:\Users\Olga\Desktop\26_04_2015_project-2015-04-29\26_04_2015 project\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe.config
+C:\Users\Olga\Desktop\26_04_2015_project-2015-04-29\26_04_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.exe
+C:\Users\Olga\Desktop\26_04_2015_project-2015-04-29\26_04_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.pdb
+C:\Users\Olga\Desktop\26_04_2015_project-2015-04-29\26_04_2015 project\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe
+C:\Users\Olga\Desktop\26_04_2015_project-2015-04-29\26_04_2015 project\ProjectElections\ProjectElections\bin\Debug\ProjectElections.pdb
+C:\Users\Olga\Desktop\26_04_2015_project-2015-04-29\26_04_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csprojResolveAssemblyReference.cache
+C:\Users\Olga\Desktop\26_04_2015_project-2015-04-29\26_04_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompanierId.resources
+C:\Users\Olga\Desktop\26_04_2015_project-2015-04-29\26_04_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompKalpMan.resources
+C:\Users\Olga\Desktop\26_04_2015_project-2015-04-29\26_04_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewParty.resources
+C:\Users\Olga\Desktop\26_04_2015_project-2015-04-29\26_04_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddPartyMember.resources
+C:\Users\Olga\Desktop\26_04_2015_project-2015-04-29\26_04_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddVoterToKalpi.resources
+C:\Users\Olga\Desktop\26_04_2015_project-2015-04-29\26_04_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.BlockCitizen.resources
+C:\Users\Olga\Desktop\26_04_2015_project-2015-04-29\26_04_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ChangeKalpi.resources
+C:\Users\Olga\Desktop\26_04_2015_project-2015-04-29\26_04_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.changePass.resources
+C:\Users\Olga\Desktop\26_04_2015_project-2015-04-29\26_04_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Form1.resources
+C:\Users\Olga\Desktop\26_04_2015_project-2015-04-29\26_04_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Kalpi_Manager_Menu.resources
+C:\Users\Olga\Desktop\26_04_2015_project-2015-04-29\26_04_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveMember.resources
+C:\Users\Olga\Desktop\26_04_2015_project-2015-04-29\26_04_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.removeParty.resources
+C:\Users\Olga\Desktop\26_04_2015_project-2015-04-29\26_04_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Login.resources
+C:\Users\Olga\Desktop\26_04_2015_project-2015-04-29\26_04_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ManagerMenu.resources
+C:\Users\Olga\Desktop\26_04_2015_project-2015-04-29\26_04_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Properties.Resources.resources
+C:\Users\Olga\Desktop\26_04_2015_project-2015-04-29\26_04_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveVoterFromKalpi.resources
+C:\Users\Olga\Desktop\26_04_2015_project-2015-04-29\26_04_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchPartiesByName.resources
+C:\Users\Olga\Desktop\26_04_2015_project-2015-04-29\26_04_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchPartyMemberByName.resources
+C:\Users\Olga\Desktop\26_04_2015_project-2015-04-29\26_04_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.searchVoterKalpiMan.resources
+C:\Users\Olga\Desktop\26_04_2015_project-2015-04-29\26_04_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.showDetails.resources
+C:\Users\Olga\Desktop\26_04_2015_project-2015-04-29\26_04_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowParties.resources
+C:\Users\Olga\Desktop\26_04_2015_project-2015-04-29\26_04_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowPrimeMinister.resources
+C:\Users\Olga\Desktop\26_04_2015_project-2015-04-29\26_04_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UnblockCitizen.resources
+C:\Users\Olga\Desktop\26_04_2015_project-2015-04-29\26_04_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.updateMemberParty.resources
+C:\Users\Olga\Desktop\26_04_2015_project-2015-04-29\26_04_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdatePartyDetails.resources
+C:\Users\Olga\Desktop\26_04_2015_project-2015-04-29\26_04_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateVoter.resources
+C:\Users\Olga\Desktop\26_04_2015_project-2015-04-29\26_04_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.VoterMenu.resources
+C:\Users\Olga\Desktop\26_04_2015_project-2015-04-29\26_04_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Vote_page.resources
+C:\Users\Olga\Desktop\26_04_2015_project-2015-04-29\26_04_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.WatchKalpi.resources
+C:\Users\Olga\Desktop\26_04_2015_project-2015-04-29\26_04_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csproj.GenerateResource.Cache
+C:\Users\Olga\Desktop\2_05_2015 project\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe.config
+C:\Users\Olga\Desktop\2_05_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.exe
+C:\Users\Olga\Desktop\2_05_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.pdb
+C:\Users\rotem\Desktop\Sprint 2\ProjectElections\ProjectElections\obj\Debug\ProjectElections.KalpiManagerMenu.resources
+C:\Users\rotem\Desktop\Sprint 2\12\Code\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe.config
+C:\Users\rotem\Desktop\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.exe
+C:\Users\rotem\Desktop\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.pdb
+C:\Users\rotem\Desktop\Sprint 2\12\Code\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe
+C:\Users\rotem\Desktop\Sprint 2\12\Code\ProjectElections\ProjectElections\bin\Debug\ProjectElections.pdb
+C:\Users\rotem\Desktop\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csprojResolveAssemblyReference.cache
+C:\Users\rotem\Desktop\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompanierId.resources
+C:\Users\rotem\Desktop\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompKalpMan.resources
+C:\Users\rotem\Desktop\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewParty.resources
+C:\Users\rotem\Desktop\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddPartyMember.resources
+C:\Users\rotem\Desktop\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddVoterToKalpi.resources
+C:\Users\rotem\Desktop\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.BlockCitizen.resources
+C:\Users\rotem\Desktop\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ChangeKalpi.resources
+C:\Users\rotem\Desktop\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.changePass.resources
+C:\Users\rotem\Desktop\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Form1.resources
+C:\Users\rotem\Desktop\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.KalpiManagerMenu.resources
+C:\Users\rotem\Desktop\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveMember.resources
+C:\Users\rotem\Desktop\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.removeParty.resources
+C:\Users\rotem\Desktop\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Login.resources
+C:\Users\rotem\Desktop\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ManagerMenu.resources
+C:\Users\rotem\Desktop\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Properties.Resources.resources
+C:\Users\rotem\Desktop\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveVoterFromKalpi.resources
+C:\Users\rotem\Desktop\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchPartiesByName.resources
+C:\Users\rotem\Desktop\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchPartyMemberByName.resources
+C:\Users\rotem\Desktop\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.searchVoterKalpiMan.resources
+C:\Users\rotem\Desktop\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.showDetails.resources
+C:\Users\rotem\Desktop\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowParties.resources
+C:\Users\rotem\Desktop\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowPrimeMinister.resources
+C:\Users\rotem\Desktop\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UnblockCitizen.resources
+C:\Users\rotem\Desktop\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.updateMemberParty.resources
+C:\Users\rotem\Desktop\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdatePartyDetails.resources
+C:\Users\rotem\Desktop\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateVoter.resources
+C:\Users\rotem\Desktop\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.VoterMenu.resources
+C:\Users\rotem\Desktop\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Vote_page.resources
+C:\Users\rotem\Desktop\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.WatchKalpi.resources
+C:\Users\rotem\Desktop\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csproj.GenerateResource.Cache
+C:\Users\rotem\Desktop\תהליכי יצור\Sprint 2\12\Code\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe.config
+C:\Users\rotem\Desktop\תהליכי יצור\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.exe
+C:\Users\rotem\Desktop\תהליכי יצור\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.pdb
+C:\Users\rotem\Desktop\תהליכי יצור\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompanierId.resources
+C:\Users\rotem\Desktop\תהליכי יצור\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompKalpMan.resources
+C:\Users\rotem\Desktop\תהליכי יצור\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewParty.resources
+C:\Users\rotem\Desktop\תהליכי יצור\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddPartyMember.resources
+C:\Users\rotem\Desktop\תהליכי יצור\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddVoterToKalpi.resources
+C:\Users\rotem\Desktop\תהליכי יצור\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.BlockCitizen.resources
+C:\Users\rotem\Desktop\תהליכי יצור\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ChangeKalpi.resources
+C:\Users\rotem\Desktop\תהליכי יצור\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.changePass.resources
+C:\Users\rotem\Desktop\תהליכי יצור\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Form1.resources
+C:\Users\rotem\Desktop\תהליכי יצור\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.KalpiManagerMenu.resources
+C:\Users\rotem\Desktop\תהליכי יצור\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveMember.resources
+C:\Users\rotem\Desktop\תהליכי יצור\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.removeParty.resources
+C:\Users\rotem\Desktop\תהליכי יצור\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Login.resources
+C:\Users\rotem\Desktop\תהליכי יצור\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ManagerMenu.resources
+C:\Users\rotem\Desktop\תהליכי יצור\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Properties.Resources.resources
+C:\Users\rotem\Desktop\תהליכי יצור\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveVoterFromKalpi.resources
+C:\Users\rotem\Desktop\תהליכי יצור\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchPartiesByName.resources
+C:\Users\rotem\Desktop\תהליכי יצור\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchPartyMemberByName.resources
+C:\Users\rotem\Desktop\תהליכי יצור\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.searchVoterKalpiMan.resources
+C:\Users\rotem\Desktop\תהליכי יצור\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.showDetails.resources
+C:\Users\rotem\Desktop\תהליכי יצור\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowParties.resources
+C:\Users\rotem\Desktop\תהליכי יצור\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowPrimeMinister.resources
+C:\Users\rotem\Desktop\תהליכי יצור\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UnblockCitizen.resources
+C:\Users\rotem\Desktop\תהליכי יצור\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.updateMemberParty.resources
+C:\Users\rotem\Desktop\תהליכי יצור\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdatePartyDetails.resources
+C:\Users\rotem\Desktop\תהליכי יצור\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateVoter.resources
+C:\Users\rotem\Desktop\תהליכי יצור\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.VoterMenu.resources
+C:\Users\rotem\Desktop\תהליכי יצור\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Vote_page.resources
+C:\Users\rotem\Desktop\תהליכי יצור\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.WatchKalpi.resources
+C:\Users\rotem\Desktop\תהליכי יצור\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csproj.GenerateResource.Cache
+C:\Users\rotem\Desktop\תהליכי יצור\Sprint 2\12\Code\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe
+C:\Users\rotem\Desktop\תהליכי יצור\Sprint 2\12\Code\ProjectElections\ProjectElections\bin\Debug\ProjectElections.pdb
+C:\Users\rotem\Desktop\תהליכי יצור\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AreaManagerMenu.resources
+C:\Users\rotem\Desktop\תהליכי יצור\Sprint 2\12\Code\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csprojResolveAssemblyReference.cache
+C:\Users\rotem\Desktop\11_05_2015 project\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe.config
+C:\Users\rotem\Desktop\11_05_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.exe
+C:\Users\rotem\Desktop\11_05_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.pdb
+C:\Users\rotem\Desktop\11_05_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompanierId.resources
+C:\Users\rotem\Desktop\11_05_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompKalpMan.resources
+C:\Users\rotem\Desktop\11_05_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewParty.resources
+C:\Users\rotem\Desktop\11_05_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddPartyMember.resources
+C:\Users\rotem\Desktop\11_05_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddVoterToKalpi.resources
+C:\Users\rotem\Desktop\11_05_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AreaManagerMenu.resources
+C:\Users\rotem\Desktop\11_05_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.BlockCitizen.resources
+C:\Users\rotem\Desktop\11_05_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ChangeKalpi.resources
+C:\Users\rotem\Desktop\11_05_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.changePass.resources
+C:\Users\rotem\Desktop\11_05_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Form1.resources
+C:\Users\rotem\Desktop\11_05_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.KalpiManagerMenu.resources
+C:\Users\rotem\Desktop\11_05_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveMember.resources
+C:\Users\rotem\Desktop\11_05_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.removeParty.resources
+C:\Users\rotem\Desktop\11_05_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Login.resources
+C:\Users\rotem\Desktop\11_05_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ManagerMenu.resources
+C:\Users\rotem\Desktop\11_05_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Properties.Resources.resources
+C:\Users\rotem\Desktop\11_05_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveVoterFromKalpi.resources
+C:\Users\rotem\Desktop\11_05_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchPartiesByName.resources
+C:\Users\rotem\Desktop\11_05_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchPartyMemberByName.resources
+C:\Users\rotem\Desktop\11_05_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.searchVoterKalpiMan.resources
+C:\Users\rotem\Desktop\11_05_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.showDetails.resources
+C:\Users\rotem\Desktop\11_05_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowParties.resources
+C:\Users\rotem\Desktop\11_05_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowPrimeMinister.resources
+C:\Users\rotem\Desktop\11_05_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UnblockCitizen.resources
+C:\Users\rotem\Desktop\11_05_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.updateMemberParty.resources
+C:\Users\rotem\Desktop\11_05_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdatePartyDetails.resources
+C:\Users\rotem\Desktop\11_05_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateVoter.resources
+C:\Users\rotem\Desktop\11_05_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.VoterMenu.resources
+C:\Users\rotem\Desktop\11_05_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Vote_page.resources
+C:\Users\rotem\Desktop\11_05_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.WatchKalpi.resources
+C:\Users\rotem\Desktop\11_05_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csproj.GenerateResource.Cache
+C:\Users\rotem\Desktop\11_05_2015 project\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe
+C:\Users\rotem\Desktop\11_05_2015 project\ProjectElections\ProjectElections\bin\Debug\ProjectElections.pdb
+C:\Users\rotem\Google Drive\תהליכי ייצור ואחזקה\Project\11_05_2015 project\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe.config
+C:\Users\rotem\Google Drive\תהליכי ייצור ואחזקה\Project\11_05_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.exe
+C:\Users\rotem\Google Drive\תהליכי ייצור ואחזקה\Project\11_05_2015 project\ProjectElections\ProjectElections\obj\Debug\ProjectElections.pdb
+D:\הורדות\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe.config
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.exe
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.pdb
+D:\הורדות\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe
+D:\הורדות\ProjectElections\ProjectElections\bin\Debug\ProjectElections.pdb
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompanierId.resources
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompKalpMan.resources
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewAreaManager.resources
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewParty.resources
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddPartyMember.resources
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddVoterToKalpi.resources
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AreaManagerMenu.resources
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.BlockCitizen.resources
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ChangeKalpi.resources
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.changePass.resources
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Form1.resources
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.KalpiManagerMenu.resources
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveMember.resources
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.removeParty.resources
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Login.resources
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ManagerMenu.resources
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Properties.Resources.resources
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveVoterFromKalpi.resources
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchPartiesByName.resources
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchPartyMemberByName.resources
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.searchVoterKalpiMan.resources
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.showDetails.resources
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowParties.resources
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowPrimeMinister.resources
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UnblockCitizen.resources
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.updateMemberParty.resources
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdatePartyDetails.resources
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateVoter.resources
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.VoterMenu.resources
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Vote_page.resources
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.WatchKalpi.resources
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csproj.GenerateResource.Cache
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveAreaManager.resources
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.NewKalpiToArea.resources
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddWorkerToKalpi.resources
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveWorker.resources
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.BlockKalpi.resources
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UnblockKalpi.resources
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateKalpiDetails.resources
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateKalpManagerDetails.resources
+C:\Users\Arnold\Desktop\project 17-05-2015\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe.config
+C:\Users\Arnold\Desktop\project 17-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.exe
+C:\Users\Arnold\Desktop\project 17-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.pdb
+C:\Users\Arnold\Desktop\project 17-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csprojResolveAssemblyReference.cache
+C:\Users\Arnold\Desktop\project 17-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompanierId.resources
+C:\Users\Arnold\Desktop\project 17-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompKalpMan.resources
+C:\Users\Arnold\Desktop\project 17-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewAreaManager.resources
+C:\Users\Arnold\Desktop\project 17-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewParty.resources
+C:\Users\Arnold\Desktop\project 17-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddPartyMember.resources
+C:\Users\Arnold\Desktop\project 17-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddVoterToKalpi.resources
+C:\Users\Arnold\Desktop\project 17-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddWorkerToKalpi.resources
+C:\Users\Arnold\Desktop\project 17-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AreaManagerMenu.resources
+C:\Users\Arnold\Desktop\project 17-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.BlockCitizen.resources
+C:\Users\Arnold\Desktop\project 17-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.BlockKalpi.resources
+C:\Users\Arnold\Desktop\project 17-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ChangeKalpi.resources
+C:\Users\Arnold\Desktop\project 17-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.changePass.resources
+C:\Users\Arnold\Desktop\project 17-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Form1.resources
+C:\Users\Arnold\Desktop\project 17-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.KalpiManagerMenu.resources
+C:\Users\Arnold\Desktop\project 17-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.NewKalpiToArea.resources
+C:\Users\Arnold\Desktop\project 17-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveAreaManager.resources
+C:\Users\Arnold\Desktop\project 17-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveMember.resources
+C:\Users\Arnold\Desktop\project 17-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.removeParty.resources
+C:\Users\Arnold\Desktop\project 17-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Login.resources
+C:\Users\Arnold\Desktop\project 17-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ManagerMenu.resources
+C:\Users\Arnold\Desktop\project 17-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Properties.Resources.resources
+C:\Users\Arnold\Desktop\project 17-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveVoterFromKalpi.resources
+C:\Users\Arnold\Desktop\project 17-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveWorker.resources
+C:\Users\Arnold\Desktop\project 17-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchPartiesByName.resources
+C:\Users\Arnold\Desktop\project 17-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchPartyMemberByName.resources
+C:\Users\Arnold\Desktop\project 17-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.searchVoterKalpiMan.resources
+C:\Users\Arnold\Desktop\project 17-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.showDetails.resources
+C:\Users\Arnold\Desktop\project 17-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowParties.resources
+C:\Users\Arnold\Desktop\project 17-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowPrimeMinister.resources
+C:\Users\Arnold\Desktop\project 17-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UnblockCitizen.resources
+C:\Users\Arnold\Desktop\project 17-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UnblockKalpi.resources
+C:\Users\Arnold\Desktop\project 17-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateKalpiDetails.resources
+C:\Users\Arnold\Desktop\project 17-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateKalpManagerDetails.resources
+C:\Users\Arnold\Desktop\project 17-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.updateMemberParty.resources
+C:\Users\Arnold\Desktop\project 17-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdatePartyDetails.resources
+C:\Users\Arnold\Desktop\project 17-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateVoter.resources
+C:\Users\Arnold\Desktop\project 17-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.VoterMenu.resources
+C:\Users\Arnold\Desktop\project 17-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Vote_page.resources
+C:\Users\Arnold\Desktop\project 17-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.WatchKalpi.resources
+C:\Users\Arnold\Desktop\project 17-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csproj.GenerateResource.Cache
+C:\Users\Arnold\Desktop\project 17-05-2015\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe
+C:\Users\Arnold\Desktop\project 17-05-2015\ProjectElections\ProjectElections\bin\Debug\ProjectElections.pdb
+C:\Users\Arnold\Desktop\project 17-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveKalpiFromArea.resources
+C:\Users\snird_000\Desktop\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe.config
+C:\Users\snird_000\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.exe
+C:\Users\snird_000\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.pdb
+C:\Users\snird_000\Desktop\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe
+C:\Users\snird_000\Desktop\ProjectElections\ProjectElections\bin\Debug\ProjectElections.pdb
+C:\Users\snird_000\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompanierId.resources
+C:\Users\snird_000\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompKalpMan.resources
+C:\Users\snird_000\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewAreaManager.resources
+C:\Users\snird_000\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewParty.resources
+C:\Users\snird_000\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddPartyMember.resources
+C:\Users\snird_000\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddVoterToKalpi.resources
+C:\Users\snird_000\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddWorkerToKalpi.resources
+C:\Users\snird_000\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AreaManagerMenu.resources
+C:\Users\snird_000\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.BlockCitizen.resources
+C:\Users\snird_000\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.BlockKalpi.resources
+C:\Users\snird_000\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ChangeKalpi.resources
+C:\Users\snird_000\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.changePass.resources
+C:\Users\snird_000\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Form1.resources
+C:\Users\snird_000\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.KalpiManagerMenu.resources
+C:\Users\snird_000\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.NewKalpiToArea.resources
+C:\Users\snird_000\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveAreaManager.resources
+C:\Users\snird_000\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveKalpiFromArea.resources
+C:\Users\snird_000\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveMember.resources
+C:\Users\snird_000\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.removeParty.resources
+C:\Users\snird_000\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Login.resources
+C:\Users\snird_000\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ManagerMenu.resources
+C:\Users\snird_000\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Properties.Resources.resources
+C:\Users\snird_000\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveVoterFromKalpi.resources
+C:\Users\snird_000\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveWorker.resources
+C:\Users\snird_000\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchPartiesByName.resources
+C:\Users\snird_000\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchPartyMemberByName.resources
+C:\Users\snird_000\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.searchVoterKalpiMan.resources
+C:\Users\snird_000\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.showDetails.resources
+C:\Users\snird_000\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowParties.resources
+C:\Users\snird_000\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowPrimeMinister.resources
+C:\Users\snird_000\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UnblockCitizen.resources
+C:\Users\snird_000\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UnblockKalpi.resources
+C:\Users\snird_000\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateKalpiDetails.resources
+C:\Users\snird_000\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateKalpManagerDetails.resources
+C:\Users\snird_000\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.updateMemberParty.resources
+C:\Users\snird_000\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdatePartyDetails.resources
+C:\Users\snird_000\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateVoter.resources
+C:\Users\snird_000\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.VoterMenu.resources
+C:\Users\snird_000\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Vote_page.resources
+C:\Users\snird_000\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.WatchKalpi.resources
+C:\Users\snird_000\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csproj.GenerateResource.Cache
+C:\Users\snird_000\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewVoterToKalpi.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompKalpMan.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewAreaManager.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewVoterToKalpi.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddVoterToKalpi.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddWorkerToKalpi.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AreaManagerMenu.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.BlockCitizen.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.BlockKalpi.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ChangeKalpi.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.KalpiManagerMenu.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.NewKalpiToArea.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveAreaManager.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveKalpiFromArea.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveVoterFromKalpi.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveWorker.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchPartiesByName.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchPartyMemberByName.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.searchVoterKalpiMan.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowParties.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowPrimeMinister.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UnblockCitizen.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UnblockKalpi.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateKalpiDetails.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateKalpManagerDetails.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateVoter.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Vote_page.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.WatchKalpi.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewKalpiManager.resources
+C:\Users\Olga\Desktop\Project 19-05-2015\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe.config
+C:\Users\Olga\Desktop\Project 19-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.exe
+C:\Users\Olga\Desktop\Project 19-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.pdb
+C:\Users\Olga\Desktop\Project 19-05-2015\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe
+C:\Users\Olga\Desktop\Project 19-05-2015\ProjectElections\ProjectElections\bin\Debug\ProjectElections.pdb
+C:\Users\Olga\Desktop\Project 19-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csprojResolveAssemblyReference.cache
+C:\Users\Olga\Desktop\Project 19-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompanierId.resources
+C:\Users\Olga\Desktop\Project 19-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompKalpMan.resources
+C:\Users\Olga\Desktop\Project 19-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewAreaManager.resources
+C:\Users\Olga\Desktop\Project 19-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewKalpiManager.resources
+C:\Users\Olga\Desktop\Project 19-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewParty.resources
+C:\Users\Olga\Desktop\Project 19-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewVoterToKalpi.resources
+C:\Users\Olga\Desktop\Project 19-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddPartyMember.resources
+C:\Users\Olga\Desktop\Project 19-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddVoterToKalpi.resources
+C:\Users\Olga\Desktop\Project 19-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddWorkerToKalpi.resources
+C:\Users\Olga\Desktop\Project 19-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AreaManagerMenu.resources
+C:\Users\Olga\Desktop\Project 19-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.BlockCitizen.resources
+C:\Users\Olga\Desktop\Project 19-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.BlockKalpi.resources
+C:\Users\Olga\Desktop\Project 19-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ChangeKalpi.resources
+C:\Users\Olga\Desktop\Project 19-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.changePass.resources
+C:\Users\Olga\Desktop\Project 19-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Form1.resources
+C:\Users\Olga\Desktop\Project 19-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.KalpiManagerMenu.resources
+C:\Users\Olga\Desktop\Project 19-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.NewKalpiToArea.resources
+C:\Users\Olga\Desktop\Project 19-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveAreaManager.resources
+C:\Users\Olga\Desktop\Project 19-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveKalpiFromArea.resources
+C:\Users\Olga\Desktop\Project 19-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveKalpiManager.resources
+C:\Users\Olga\Desktop\Project 19-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveMember.resources
+C:\Users\Olga\Desktop\Project 19-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.removeParty.resources
+C:\Users\Olga\Desktop\Project 19-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Login.resources
+C:\Users\Olga\Desktop\Project 19-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ManagerMenu.resources
+C:\Users\Olga\Desktop\Project 19-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Properties.Resources.resources
+C:\Users\Olga\Desktop\Project 19-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveVoterFromKalpi.resources
+C:\Users\Olga\Desktop\Project 19-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveWorker.resources
+C:\Users\Olga\Desktop\Project 19-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchPartiesByName.resources
+C:\Users\Olga\Desktop\Project 19-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchPartyMemberByName.resources
+C:\Users\Olga\Desktop\Project 19-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.searchVoterKalpiMan.resources
+C:\Users\Olga\Desktop\Project 19-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.showDetails.resources
+C:\Users\Olga\Desktop\Project 19-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowParties.resources
+C:\Users\Olga\Desktop\Project 19-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowPrimeMinister.resources
+C:\Users\Olga\Desktop\Project 19-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UnblockCitizen.resources
+C:\Users\Olga\Desktop\Project 19-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UnblockKalpi.resources
+C:\Users\Olga\Desktop\Project 19-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateKalpiDetails.resources
+C:\Users\Olga\Desktop\Project 19-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateKalpManagerDetails.resources
+C:\Users\Olga\Desktop\Project 19-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.updateMemberParty.resources
+C:\Users\Olga\Desktop\Project 19-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdatePartyDetails.resources
+C:\Users\Olga\Desktop\Project 19-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateVoter.resources
+C:\Users\Olga\Desktop\Project 19-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.VoterMenu.resources
+C:\Users\Olga\Desktop\Project 19-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Vote_page.resources
+C:\Users\Olga\Desktop\Project 19-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.WatchKalpi.resources
+C:\Users\Olga\Desktop\Project 19-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csproj.GenerateResource.Cache
+C:\Users\ElivDahan\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompKalpMan.resources
+C:\Users\ElivDahan\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewAreaManager.resources
+C:\Users\ElivDahan\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewKalpiManager.resources
+C:\Users\ElivDahan\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewVoterToKalpi.resources
+C:\Users\ElivDahan\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddVoterToKalpi.resources
+C:\Users\ElivDahan\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddWorkerToKalpi.resources
+C:\Users\ElivDahan\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AreaManagerMenu.resources
+C:\Users\ElivDahan\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.BlockCitizen.resources
+C:\Users\ElivDahan\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.BlockKalpi.resources
+C:\Users\ElivDahan\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ChangeKalpi.resources
+C:\Users\ElivDahan\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.KalpiManagerMenu.resources
+C:\Users\ElivDahan\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.NewKalpiToArea.resources
+C:\Users\ElivDahan\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveAreaManager.resources
+C:\Users\ElivDahan\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveKalpiFromArea.resources
+C:\Users\ElivDahan\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveKalpiManager.resources
+C:\Users\ElivDahan\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveVoterFromKalpi.resources
+C:\Users\ElivDahan\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveWorker.resources
+C:\Users\ElivDahan\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchPartiesByName.resources
+C:\Users\ElivDahan\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchPartyMemberByName.resources
+C:\Users\ElivDahan\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.searchVoterKalpiMan.resources
+C:\Users\ElivDahan\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowParties.resources
+C:\Users\ElivDahan\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowPrimeMinister.resources
+C:\Users\ElivDahan\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UnblockCitizen.resources
+C:\Users\ElivDahan\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UnblockKalpi.resources
+C:\Users\ElivDahan\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateKalpiDetails.resources
+C:\Users\ElivDahan\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateKalpManagerDetails.resources
+C:\Users\ElivDahan\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateVoter.resources
+C:\Users\ElivDahan\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.WatchKalpi.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveKalpiManager.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowKalpiesInArea.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.PercentageVotersReportByArea.resources
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe.config
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.exe
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.pdb
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\bin\Debug\ProjectElections.pdb
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csprojResolveAssemblyReference.cache
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompanierId.resources
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompKalpMan.resources
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewAreaManager.resources
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewKalpiManager.resources
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewParty.resources
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewVoterToKalpi.resources
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddPartyMember.resources
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddVoterToKalpi.resources
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddWorkerToKalpi.resources
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AreaManagerMenu.resources
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.BlockCitizen.resources
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.BlockKalpi.resources
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ChangeKalpi.resources
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.changePass.resources
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Form1.resources
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.KalpiManagerMenu.resources
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.NewKalpiToArea.resources
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.PercentageVotersReportByArea.resources
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveAreaManager.resources
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveKalpiFromArea.resources
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveKalpiManager.resources
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveMember.resources
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.removeParty.resources
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Login.resources
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ManagerMenu.resources
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Properties.Resources.resources
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveVoterFromKalpi.resources
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveWorker.resources
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchPartiesByName.resources
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchPartyMemberByName.resources
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.searchVoterKalpiMan.resources
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.showDetails.resources
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowKalpiesInArea.resources
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowParties.resources
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowPrimeMinister.resources
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowPrimeVotes.resources
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UnblockCitizen.resources
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UnblockKalpi.resources
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateKalpiDetails.resources
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateKalpManagerDetails.resources
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.updateMemberParty.resources
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdatePartyDetails.resources
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateVoter.resources
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.VoterMenu.resources
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Vote_page.resources
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.WatchKalpi.resources
+C:\Users\Arnold\Desktop\NEW NEW project 25-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csproj.GenerateResource.Cache
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe.config
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.exe
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.pdb
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\bin\Debug\ProjectElections.pdb
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csprojResolveAssemblyReference.cache
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompanierId.resources
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompKalpMan.resources
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewAreaManager.resources
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewKalpiManager.resources
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewParty.resources
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewVoterToKalpi.resources
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddPartyMember.resources
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddVoterToKalpi.resources
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddWorkerToKalpi.resources
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AreaManagerMenu.resources
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.BlockCitizen.resources
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.BlockKalpi.resources
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ChangeKalpi.resources
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.changePass.resources
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Form1.resources
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.KalpiManagerMenu.resources
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.NewKalpiToArea.resources
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.PercentageVotersReportByArea.resources
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveAreaManager.resources
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveKalpiFromArea.resources
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveKalpiManager.resources
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveMember.resources
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.removeParty.resources
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Login.resources
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ManagerMenu.resources
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Properties.Resources.resources
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveVoterFromKalpi.resources
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveWorker.resources
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchPartiesByName.resources
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchPartyMemberByName.resources
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.searchVoterKalpiMan.resources
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.showDetails.resources
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowKalpiesInArea.resources
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowParties.resources
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowPrimeMinister.resources
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowPrimeVotes.resources
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.TotalVotePercentage.resources
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UnblockCitizen.resources
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UnblockKalpi.resources
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateKalpiDetails.resources
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateKalpManagerDetails.resources
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.updateMemberParty.resources
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdatePartyDetails.resources
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateVoter.resources
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.VoterMenu.resources
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Vote_page.resources
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.WatchKalpi.resources
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csproj.GenerateResource.Cache
+C:\Users\Arnold\Desktop\NEW NEW project 26-05-2015\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddKalpiVoter.resources
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddKalpiVoter.resources
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewKalpiManager.resources
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewVoterToKalpi.resources
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.KalpiManagerCloseKalpi.resources
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.PercentageVotersReportByArea.resources
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveKalpiFromArea.resources
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveKalpiManager.resources
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowKalpiesInArea.resources
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowPrimeVotes.resources
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.TotalVotePercentage.resources
+D:\הורדות\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowPartyElecResult.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe.config
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.exe
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.pdb
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\bin\Debug\ProjectElections.pdb
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csprojResolveAssemblyReference.cache
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompanierId.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompKalpMan.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddKalpiVoter.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewAreaManager.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewKalpiManager.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewParty.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewVoterToKalpi.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddPartyMember.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddVoterToKalpi.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddWorkerToKalpi.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AreaManagerMenu.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.BlockCitizen.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.BlockKalpi.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ChangeKalpi.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.changePass.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Form1.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.KalpiManagerCloseKalpi.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.KalpiManagerMenu.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.NewKalpiToArea.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.PercentageVotersReportByArea.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveAreaManager.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveKalpiFromArea.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveKalpiManager.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveMember.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.removeParty.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Login.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ManagerMenu.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Properties.Resources.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveVoterFromKalpi.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveWorker.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchPartiesByName.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchPartyMemberByName.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.searchVoterKalpiMan.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.showDetails.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowKalpiesInArea.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowParties.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowPartyElecResult.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowPrimeMinister.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowPrimeVotes.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.TotalVotePercentage.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UnblockCitizen.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UnblockKalpi.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateKalpiDetails.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateKalpManagerDetails.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.updateMemberParty.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdatePartyDetails.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateVoter.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.VoterMenu.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Vote_page.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.WatchKalpi.resources
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csproj.GenerateResource.Cache
+D:\לימודים\תהלכי יצור\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddCommissioner.resources
+C:\Users\User\Desktop\תיקיה חדשה\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe.config
+C:\Users\User\Desktop\תיקיה חדשה\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.exe
+C:\Users\User\Desktop\תיקיה חדשה\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.pdb
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe.config
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.exe
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.pdb
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\bin\Debug\ProjectElections.pdb
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompanierId.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompKalpMan.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddCommissioner.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddKalpiVoter.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewAreaManager.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewKalpiManager.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewParty.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewVoterToKalpi.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddPartyMember.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddVoterToKalpi.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddWorkerToKalpi.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AreaManagerMenu.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.BlockCitizen.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.BlockKalpi.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ChangeKalpi.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.changePass.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.CloseKalpiByAreaManager.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Form1.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.KalpiManagerCloseKalpi.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.KalpiManagerMenu.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.NewKalpiToArea.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.PercentageVotersReportByArea.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveAreaManager.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveKalpiFromArea.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveKalpiManager.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveMember.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.removeParty.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Login.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ManagerMenu.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Properties.Resources.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveVoterFromKalpi.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveWorker.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchInvaildAccess.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchPartiesByName.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchPartyMemberByName.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.searchVoterKalpiMan.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.showDetails.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowKalpiesInArea.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowParties.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowPartyElecResult.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowPrimeMinister.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowPrimeVotes.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.TotalVotePercentage.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UnblockCitizen.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UnblockKalpi.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateKalpiDetails.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateKalpManagerDetails.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.updateMemberParty.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdatePartyDetails.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateVoter.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.VoterMenu.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Vote_page.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.WatchKalpi.resources
+C:\Users\User\Desktop\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\דדרישות\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe.config
+C:\Users\User\Desktop\דדרישות\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.exe
+C:\Users\User\Desktop\דדרישות\ElectionsProject2015 Aviva 28.5.15\ספריט 4\Project_26-05-2015_SNIR_UPDATE-2015-05-27\Project 26-05-2015 SNIR UPDATE\ProjectElections\ProjectElections\obj\Debug\ProjectElections.pdb
+C:\Users\User\Desktop\ElectionsProject2015Aviva 28.5.15\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe.config
+C:\Users\User\Desktop\ElectionsProject2015Aviva 28.5.15\ProjectElections\ProjectElections\obj\Debug\ProjectElections.exe
+C:\Users\User\Desktop\ElectionsProject2015Aviva 28.5.15\ProjectElections\ProjectElections\obj\Debug\ProjectElections.pdb
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe.config
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.exe
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.pdb
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\bin\Debug\ProjectElections.pdb
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csprojResolveAssemblyReference.cache
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompanierId.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompKalpMan.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddCommissioner.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddKalpiVoter.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewAreaManager.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewKalpiManager.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewParty.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewVoterToKalpi.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddPartyMember.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddVoterToKalpi.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddWorkerToKalpi.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AreaManagerMenu.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.BlockCitizen.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.BlockKalpi.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ChangeKalpi.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.changePass.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.CloseKalpiByAreaManager.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Form1.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.KalpiManagerCloseKalpi.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.KalpiManagerMenu.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.NewKalpiToArea.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.PercentageVotersReportByArea.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveAreaManager.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveKalpiFromArea.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveKalpiManager.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveMember.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.removeParty.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Login.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ManagerMenu.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Properties.Resources.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveVoterFromKalpi.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveWorker.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchInvaildAccess.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchPartiesByName.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchPartyMemberByName.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.searchVoterKalpiMan.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.showDetails.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowKalpiesInArea.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowParties.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowPartyElecResult.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowPrimeMinister.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowPrimeVotes.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.TotalVotePercentage.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UnblockCitizen.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UnblockKalpi.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateKalpiDetails.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateKalpManagerDetails.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.updateMemberParty.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdatePartyDetails.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateVoter.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.VoterMenu.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Vote_page.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.WatchKalpi.resources
+C:\Users\Olga\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csproj.GenerateResource.Cache
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe.config
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.exe
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.pdb
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\bin\Debug\ProjectElections.pdb
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csprojResolveAssemblyReference.cache
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompanierId.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompKalpMan.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddCommissioner.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddKalpiVoter.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewAreaManager.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewKalpiManager.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewParty.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewVoterToKalpi.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddPartyMember.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddVoterToKalpi.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddWorkerToKalpi.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AreaManagerMenu.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.BlockCitizen.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.BlockKalpi.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ChangeKalpi.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.changePass.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.CloseKalpiByAreaManager.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ElectionsResultArea.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Form1.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.KalpiManagerCloseKalpi.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.KalpiManagerMenu.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.NewKalpiToArea.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.PercentageVotersReportByArea.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveAreaManager.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveKalpiFromArea.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveKalpiManager.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveMember.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.removeParty.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Login.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ManagerMenu.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Properties.Resources.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveVoterFromKalpi.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveWorker.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchInvaildAccess.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchPartiesByName.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchPartyMemberByName.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.searchVoterKalpiMan.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.showDetails.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowKalpiesInArea.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowParties.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowPartyElecResult.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowPrimeMinister.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowPrimeVotes.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.TotalVotePercentage.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UnblockCitizen.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UnblockKalpi.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateKalpiDetails.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateKalpManagerDetails.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.updateMemberParty.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdatePartyDetails.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateVoter.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.VoterMenu.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Vote_page.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.WatchKalpi.resources
+C:\Users\D.S\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csproj.GenerateResource.Cache
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe.config
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.exe
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.pdb
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\bin\Debug\ProjectElections.pdb
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompanierId.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompKalpMan.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddCommissioner.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddKalpiVoter.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewAreaManager.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewKalpiManager.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewParty.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewVoterToKalpi.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddPartyMember.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddVoterToKalpi.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddWorkerToKalpi.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AreaManagerMenu.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.BlockCitizen.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.BlockKalpi.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ChangeKalpi.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.changePass.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.CloseKalpiByAreaManager.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ElectionsResultArea.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Form1.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.KalpiManagerCloseKalpi.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.KalpiManagerMenu.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.NewKalpiToArea.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.PercentageVotersReportByArea.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveAreaManager.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveKalpiFromArea.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveKalpiManager.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveMember.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.removeParty.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Login.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ManagerMenu.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Properties.Resources.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveVoterFromKalpi.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveWorker.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchInvaildAccess.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchPartiesByName.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchPartyMemberByName.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.searchVoterKalpiMan.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.showDetails.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowKalpiesInArea.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowParties.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowPartyElecResult.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowPrimeMinister.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowPrimeVotes.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.TotalVotePercentage.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UnblockCitizen.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UnblockKalpi.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateKalpiDetails.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateKalpManagerDetails.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.updateMemberParty.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdatePartyDetails.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateVoter.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.VoterMenu.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Vote_page.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.WatchKalpi.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csproj.GenerateResource.Cache
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.CountMandatByElectionsManager.resources
+C:\Users\rotem\Desktop\30.5.15 NEW PROJECT\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csprojResolveAssemblyReference.cache
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe.config
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.exe
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.pdb
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\bin\Debug\ProjectElections.pdb
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csprojResolveAssemblyReference.cache
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompanierId.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompKalpMan.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddCommissioner.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddKalpiVoter.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewAreaManager.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewKalpiManager.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewParty.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewVoterToKalpi.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddPartyMember.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddVoterToKalpi.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddWorkerToKalpi.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AreaManagerMenu.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.BlockCitizen.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.BlockKalpi.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ChangeKalpi.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.changePass.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.CloseKalpiByAreaManager.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.CountMandatByElectionsManager.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ElectionsResultArea.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Form1.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.KalpiManagerCloseKalpi.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.KalpiManagerMenu.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.NewKalpiToArea.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.PercentageVotersReportByArea.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveAreaManager.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveKalpiFromArea.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveKalpiManager.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveMember.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.removeParty.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Login.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ManagerMenu.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Properties.Resources.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveVoterFromKalpi.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveWorker.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchInvaildAccess.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchPartiesByName.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchPartyMemberByName.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.searchVoterKalpiMan.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.showDetails.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowKalpiesInArea.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowParties.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowPartyElecResult.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowPrimeMinister.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowPrimeVotes.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.TotalVotePercentage.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UnblockCitizen.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UnblockKalpi.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateKalpiDetails.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateKalpManagerDetails.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.updateMemberParty.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdatePartyDetails.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateVoter.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.VoterMenu.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Vote_page.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.WatchKalpi.resources
+C:\Users\Arnold\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csproj.GenerateResource.Cache
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe.config
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.exe
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.pdb
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\bin\Debug\ProjectElections.pdb
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csprojResolveAssemblyReference.cache
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompanierId.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompKalpMan.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddCommissioner.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddKalpiVoter.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewAreaManager.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewKalpiManager.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewParty.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewVoterToKalpi.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddPartyMember.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddVoterToKalpi.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddWorkerToKalpi.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AreaManagerMenu.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.BlockCitizen.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.BlockKalpi.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ChangeKalpi.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.changePass.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.CloseKalpiByAreaManager.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.CountMandatByElectionsManager.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ElectionsResultArea.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Form1.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.KalpiManagerCloseKalpi.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.KalpiManagerMenu.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.NewKalpiToArea.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.PercentageVotersReportByArea.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveAreaManager.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveKalpiFromArea.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveKalpiManager.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveMember.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.removeParty.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Login.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ManagerMenu.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Properties.Resources.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveVoterFromKalpi.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveWorker.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchInvaildAccess.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchPartiesByName.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchPartyMemberByName.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.searchVoterKalpiMan.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.showDetails.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowKalpiesInArea.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowParties.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowPartyElecResult.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowPrimeMinister.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowPrimeVotes.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.TotalVotePercentage.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UnblockCitizen.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UnblockKalpi.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateKalpiDetails.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateKalpManagerDetails.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.updateMemberParty.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdatePartyDetails.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateVoter.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.VoterMenu.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Vote_page.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.WatchKalpi.resources
+C:\Users\Arnold\Dropbox\ElectionsProject\1.6.2015 new\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csproj.GenerateResource.Cache
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddCommissioner.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddKalpiVoter.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.CloseKalpiByAreaManager.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.CountMandatByElectionsManager.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ElectionsResultArea.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.KalpiManagerCloseKalpi.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchInvaildAccess.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowPartyElecResult.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowPrimeVotes.resources
+C:\Users\rotem\Desktop\ProjectElections\ProjectElections\obj\Debug\ProjectElections.TotalVotePercentage.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe.config
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.exe
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.pdb
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\bin\Debug\ProjectElections.pdb
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompanierId.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompKalpMan.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddCommissioner.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddKalpiVoter.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewAreaManager.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewKalpiManager.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewParty.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewVoterToKalpi.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddPartyMember.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddVoterToKalpi.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddWorkerToKalpi.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AreaManagerMenu.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.BlockCitizen.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.BlockKalpi.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ChangeKalpi.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.changePass.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.CloseKalpiByAreaManager.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.CountMandatByElectionsManager.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ElectionsResultArea.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Form1.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.KalpiManagerCloseKalpi.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.KalpiManagerMenu.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.NewKalpiToArea.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.PercentageVotersReportByArea.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveAreaManager.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveKalpiFromArea.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveKalpiManager.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveMember.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.removeParty.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Login.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ManagerMenu.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Properties.Resources.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveVoterFromKalpi.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveWorker.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchInvaildAccess.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchPartiesByName.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchPartyMemberByName.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.searchVoterKalpiMan.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.showDetails.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowKalpiesInArea.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowParties.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowPartyElecResult.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowPrimeMinister.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowPrimeVotes.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.TotalVotePercentage.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UnblockCitizen.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UnblockKalpi.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateKalpiDetails.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateKalpManagerDetails.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.updateMemberParty.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdatePartyDetails.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateVoter.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.VoterMenu.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Vote_page.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.WatchKalpi.resources
+C:\Users\rotem\Desktop\הגשה\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csproj.GenerateResource.Cache
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe.config
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.exe
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.pdb
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\bin\Debug\ProjectElections.pdb
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csprojResolveAssemblyReference.cache
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompanierId.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompKalpMan.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddCommissioner.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddKalpiVoter.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewAreaManager.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewKalpiManager.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewParty.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewVoterToKalpi.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddPartyMember.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddVoterToKalpi.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddWorkerToKalpi.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AreaManagerMenu.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.BlockCitizen.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.BlockKalpi.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ChangeKalpi.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.changePass.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.CloseKalpiByAreaManager.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.CountMandatByElectionsManager.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ElectionsResultArea.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Form1.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.KalpiManagerCloseKalpi.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.KalpiManagerMenu.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.NewKalpiToArea.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.PercentageVotersReportByArea.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveAreaManager.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveKalpiFromArea.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveKalpiManager.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveMember.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.removeParty.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Login.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ManagerMenu.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Properties.Resources.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveVoterFromKalpi.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveWorker.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchInvaildAccess.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchPartiesByName.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchPartyMemberByName.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.searchVoterKalpiMan.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.showDetails.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowKalpiesInArea.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowParties.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowPartyElecResult.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowPrimeMinister.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowPrimeVotes.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.TotalVotePercentage.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UnblockCitizen.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UnblockKalpi.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateKalpiDetails.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateKalpManagerDetails.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.updateMemberParty.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdatePartyDetails.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateVoter.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.VoterMenu.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Vote_page.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.WatchKalpi.resources
+C:\Users\rotem\Desktop\work\פרוייקטים\Project to submit 04-06-2015 NEW NEW NEW\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csproj.GenerateResource.Cache
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe.config
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.exe
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.pdb
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\bin\Debug\ProjectElections.exe
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\bin\Debug\ProjectElections.pdb
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csprojResolveAssemblyReference.cache
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompanierId.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.addAccompKalpMan.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddCommissioner.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddKalpiVoter.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewAreaManager.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewKalpiManager.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewParty.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddNewVoterToKalpi.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddPartyMember.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddVoterToKalpi.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AddWorkerToKalpi.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.AreaManagerMenu.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.BlockCitizen.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.BlockKalpi.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ChangeKalpi.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.changePass.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.CloseKalpiByAreaManager.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.CountMandatByElectionsManager.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ElectionsResultArea.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Form1.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.KalpiManagerCloseKalpi.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.KalpiManagerMenu.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.NewKalpiToArea.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.PercentageVotersReportByArea.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveAreaManager.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveKalpiFromArea.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveKalpiManager.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveMember.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.removeParty.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Login.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ManagerMenu.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Properties.Resources.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveVoterFromKalpi.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.RemoveWorker.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchInvaildAccess.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchPartiesByName.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.SearchPartyMemberByName.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.searchVoterKalpiMan.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.showDetails.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowKalpiesInArea.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowParties.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowPartyElecResult.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowPrimeMinister.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.ShowPrimeVotes.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.TotalVotePercentage.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UnblockCitizen.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UnblockKalpi.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateKalpiDetails.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateKalpManagerDetails.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.updateMemberParty.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdatePartyDetails.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.UpdateVoter.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.VoterMenu.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.Vote_page.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.WatchKalpi.resources
+C:\Users\סאלי\Desktop\work\פרוייקטים\elections\ProjectElections\ProjectElections\obj\Debug\ProjectElections.csproj.GenerateResource.Cache

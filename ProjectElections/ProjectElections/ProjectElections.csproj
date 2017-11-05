@@ -1,0 +1,626 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5500CF6C-73E9-48BA-8C77-D2E61D6AB0DA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ProjectElections</RootNamespace>
+    <AssemblyName>ProjectElections</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="addAccompanierId.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addAccompanierId.designer.cs">
+      <DependentUpon>addAccompanierId.cs</DependentUpon>
+    </Compile>
+    <Compile Include="addAccompKalpMan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addAccompKalpMan.designer.cs">
+      <DependentUpon>addAccompKalpMan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddCommissioner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddCommissioner.designer.cs">
+      <DependentUpon>AddCommissioner.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddKalpiVoter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddKalpiVoter.designer.cs">
+      <DependentUpon>AddKalpiVoter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddNewAreaManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddNewAreaManager.Designer.cs">
+      <DependentUpon>AddNewAreaManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddNewKalpiManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddNewKalpiManager.designer.cs">
+      <DependentUpon>AddNewKalpiManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddNewParty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddNewParty.designer.cs">
+      <DependentUpon>AddNewParty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddNewVoterToKalpi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddNewVoterToKalpi.designer.cs">
+      <DependentUpon>AddNewVoterToKalpi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddPartyMember.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddPartyMember.designer.cs">
+      <DependentUpon>AddPartyMember.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddVoterToKalpi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddVoterToKalpi.designer.cs">
+      <DependentUpon>AddVoterToKalpi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddWorkerToKalpi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddWorkerToKalpi.designer.cs">
+      <DependentUpon>AddWorkerToKalpi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AreaManager.cs" />
+    <Compile Include="AreaManagerMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AreaManagerMenu.Designer.cs">
+      <DependentUpon>AreaManagerMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BlockCitizen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BlockCitizen.designer.cs">
+      <DependentUpon>BlockCitizen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BlockKalpi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BlockKalpi.designer.cs">
+      <DependentUpon>BlockKalpi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChangeKalpi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangeKalpi.designer.cs">
+      <DependentUpon>ChangeKalpi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="changePass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="changePass.designer.cs">
+      <DependentUpon>changePass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CloseKalpiByAreaManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CloseKalpiByAreaManager.designer.cs">
+      <DependentUpon>CloseKalpiByAreaManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CountMandatByElectionsManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CountMandatByElectionsManager.designer.cs">
+      <DependentUpon>CountMandatByElectionsManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ElectionsManager.cs" />
+    <Compile Include="ElectionsProjectDataSet.cs">
+      <DependentUpon>ElectionsProjectDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ElectionsProjectDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ElectionsProjectDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ElectionsResultArea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ElectionsResultArea.designer.cs">
+      <DependentUpon>ElectionsResultArea.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FactroryVoter.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ICreateVoters.cs" />
+    <Compile Include="ICommand.cs" />
+    <Compile Include="Kalpi.cs" />
+    <Compile Include="KalpiManager.cs" />
+    <Compile Include="KalpiManagerCloseKalpi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KalpiManagerCloseKalpi.designer.cs">
+      <DependentUpon>KalpiManagerCloseKalpi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KalpiManagerMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KalpiManagerMenu.Designer.cs">
+      <DependentUpon>KalpiManagerMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewKalpiToArea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewKalpiToArea.designer.cs">
+      <DependentUpon>NewKalpiToArea.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OpenMenu.cs" />
+    <Compile Include="PercentageVotersReportByArea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PercentageVotersReportByArea.Designer.cs">
+      <DependentUpon>PercentageVotersReportByArea.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProjectDBDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProjectDBDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="RemoveAreaManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RemoveAreaManager.Designer.cs">
+      <DependentUpon>RemoveAreaManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RemoveKalpiFromArea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RemoveKalpiFromArea.Designer.cs">
+      <DependentUpon>RemoveKalpiFromArea.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RemoveKalpiManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RemoveKalpiManager.Designer.cs">
+      <DependentUpon>RemoveKalpiManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="removeParty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="removeParty.designer.cs">
+      <DependentUpon>removeParty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManagerMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManagerMenu.Designer.cs">
+      <DependentUpon>ManagerMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parties.cs" />
+    <Compile Include="PartyMember.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="RemoveMember.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RemoveMember.designer.cs">
+      <DependentUpon>RemoveMember.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RemoveVoterFromKalpi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RemoveVoterFromKalpi.designer.cs">
+      <DependentUpon>RemoveVoterFromKalpi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RemoveWorker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RemoveWorker.designer.cs">
+      <DependentUpon>RemoveWorker.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SearchInvaildAccess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchInvaildAccess.designer.cs">
+      <DependentUpon>SearchInvaildAccess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SearchPartiesByName.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchPartiesByName.designer.cs">
+      <DependentUpon>SearchPartiesByName.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SearchPrtryMemberNameByName.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchPrtryMemberNameByName.designer.cs">
+      <DependentUpon>SearchPrtryMemberNameByName.cs</DependentUpon>
+    </Compile>
+    <Compile Include="searchVoterKalpiMan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="searchVoterKalpiMan.designer.cs">
+      <DependentUpon>searchVoterKalpiMan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowDetails.Designer.cs">
+      <DependentUpon>ShowDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowKalpiesInArea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowKalpiesInArea.Designer.cs">
+      <DependentUpon>ShowKalpiesInArea.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowParties.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowParties.Designer.cs">
+      <DependentUpon>ShowParties.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowPartyElecResult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowPartyElecResult.designer.cs">
+      <DependentUpon>ShowPartyElecResult.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowPrimeMinister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowPrimeMinister.Designer.cs">
+      <DependentUpon>ShowPrimeMinister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowPrimeVotes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowPrimeVotes.Designer.cs">
+      <DependentUpon>ShowPrimeVotes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SqlConnection.cs" />
+    <Compile Include="TotalVotePercentage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TotalVotePercentage.Designer.cs">
+      <DependentUpon>TotalVotePercentage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UnblockCitizen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UnblockCitizen.designer.cs">
+      <DependentUpon>UnblockCitizen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UnblockKalpi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UnblockKalpi.designer.cs">
+      <DependentUpon>UnblockKalpi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateKalpiDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateKalpiDetails.designer.cs">
+      <DependentUpon>UpdateKalpiDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateKalpManagerDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateKalpManagerDetails.designer.cs">
+      <DependentUpon>UpdateKalpManagerDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="updateMemberParty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="updateMemberParty.designer.cs">
+      <DependentUpon>updateMemberParty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdatePartyDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdatePartyDetails.designer.cs">
+      <DependentUpon>UpdatePartyDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateVoter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateVoter.designer.cs">
+      <DependentUpon>UpdateVoter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vote.cs" />
+    <Compile Include="Voter.cs" />
+    <Compile Include="VoterMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VoterMenu.Designer.cs">
+      <DependentUpon>VoterMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vote_page.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vote_page.Designer.cs">
+      <DependentUpon>Vote_page.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WatchKalpi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WatchKalpi.designer.cs">
+      <DependentUpon>WatchKalpi.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="addAccompanierId.resx">
+      <DependentUpon>addAccompanierId.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addAccompKalpMan.resx">
+      <DependentUpon>addAccompKalpMan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddCommissioner.resx">
+      <DependentUpon>AddCommissioner.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddKalpiVoter.resx">
+      <DependentUpon>AddKalpiVoter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddNewAreaManager.resx">
+      <DependentUpon>AddNewAreaManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddNewKalpiManager.resx">
+      <DependentUpon>AddNewKalpiManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddNewParty.resx">
+      <DependentUpon>AddNewParty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddNewVoterToKalpi.resx">
+      <DependentUpon>AddNewVoterToKalpi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddPartyMember.resx">
+      <DependentUpon>AddPartyMember.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddVoterToKalpi.resx">
+      <DependentUpon>AddVoterToKalpi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddWorkerToKalpi.resx">
+      <DependentUpon>AddWorkerToKalpi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AreaManagerMenu.resx">
+      <DependentUpon>AreaManagerMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BlockCitizen.resx">
+      <DependentUpon>BlockCitizen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BlockKalpi.resx">
+      <DependentUpon>BlockKalpi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangeKalpi.resx">
+      <DependentUpon>ChangeKalpi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="changePass.resx">
+      <DependentUpon>changePass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CloseKalpiByAreaManager.resx">
+      <DependentUpon>CloseKalpiByAreaManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CountMandatByElectionsManager.resx">
+      <DependentUpon>CountMandatByElectionsManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ElectionsResultArea.resx">
+      <DependentUpon>ElectionsResultArea.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KalpiManagerCloseKalpi.resx">
+      <DependentUpon>KalpiManagerCloseKalpi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KalpiManagerMenu.resx">
+      <DependentUpon>KalpiManagerMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewKalpiToArea.resx">
+      <DependentUpon>NewKalpiToArea.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PercentageVotersReportByArea.resx">
+      <DependentUpon>PercentageVotersReportByArea.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RemoveAreaManager.resx">
+      <DependentUpon>RemoveAreaManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RemoveKalpiFromArea.resx">
+      <DependentUpon>RemoveKalpiFromArea.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RemoveKalpiManager.resx">
+      <DependentUpon>RemoveKalpiManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RemoveMember.resx">
+      <DependentUpon>RemoveMember.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="removeParty.resx">
+      <DependentUpon>removeParty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManagerMenu.resx">
+      <DependentUpon>ManagerMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RemoveVoterFromKalpi.resx">
+      <DependentUpon>RemoveVoterFromKalpi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RemoveWorker.resx">
+      <DependentUpon>RemoveWorker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchInvaildAccess.resx">
+      <DependentUpon>SearchInvaildAccess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchPartiesByName.resx">
+      <DependentUpon>SearchPartiesByName.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchPrtryMemberNameByName.resx">
+      <DependentUpon>SearchPrtryMemberNameByName.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="searchVoterKalpiMan.resx">
+      <DependentUpon>searchVoterKalpiMan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowDetails.resx">
+      <DependentUpon>ShowDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowKalpiesInArea.resx">
+      <DependentUpon>ShowKalpiesInArea.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowParties.resx">
+      <DependentUpon>ShowParties.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowPartyElecResult.resx">
+      <DependentUpon>ShowPartyElecResult.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowPrimeMinister.resx">
+      <DependentUpon>ShowPrimeMinister.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowPrimeVotes.resx">
+      <DependentUpon>ShowPrimeVotes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TotalVotePercentage.resx">
+      <DependentUpon>TotalVotePercentage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UnblockCitizen.resx">
+      <DependentUpon>UnblockCitizen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UnblockKalpi.resx">
+      <DependentUpon>UnblockKalpi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateKalpiDetails.resx">
+      <DependentUpon>UpdateKalpiDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateKalpManagerDetails.resx">
+      <DependentUpon>UpdateKalpManagerDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="updateMemberParty.resx">
+      <DependentUpon>updateMemberParty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdatePartyDetails.resx">
+      <DependentUpon>UpdatePartyDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateVoter.resx">
+      <DependentUpon>UpdateVoter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VoterMenu.resx">
+      <DependentUpon>VoterMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vote_page.resx">
+      <DependentUpon>Vote_page.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WatchKalpi.resx">
+      <DependentUpon>WatchKalpi.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ElectionsProjectDataSet.xsc">
+      <DependentUpon>ElectionsProjectDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ElectionsProjectDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ElectionsProjectDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ElectionsProjectDataSet.xss">
+      <DependentUpon>ElectionsProjectDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ProjectDBDataSet.xsc">
+      <DependentUpon>ProjectDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ProjectDBDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ProjectDBDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ProjectDBDataSet.xss">
+      <DependentUpon>ProjectDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\הורד.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\בחירות 2015.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="בחירות 2015.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="elections-2015-in-israel.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

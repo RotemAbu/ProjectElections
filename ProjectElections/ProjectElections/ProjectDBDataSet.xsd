@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ProjectDBDataSet" targetNamespace="http://tempuri.org/ProjectDBDataSet.xsd" xmlns:mstns="http://tempuri.org/ProjectDBDataSet.xsd" xmlns="http://tempuri.org/ProjectDBDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="ProjectDBConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ProjectDBConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.ProjectElections.Properties.Settings.GlobalReference.Default.ProjectDBConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="Party_MembersTableAdapter" GeneratorDataComponentClassName="Party_MembersTableAdapter" Name="Party_Members" UserDataComponentName="Party_MembersTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ProjectDBConnectionString (Settings)" DbObjectName="ProjectDB.dbo.Party_Members" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT memberCode, partyName, fName, lName, listPlace, mode FROM dbo.Party_Members</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="memberCode" DataSetColumn="memberCode" />
+              <Mapping SourceColumn="partyName" DataSetColumn="partyName" />
+              <Mapping SourceColumn="fName" DataSetColumn="fName" />
+              <Mapping SourceColumn="lName" DataSetColumn="lName" />
+              <Mapping SourceColumn="listPlace" DataSetColumn="listPlace" />
+              <Mapping SourceColumn="mode" DataSetColumn="mode" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="ProjectDBDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="ProjectDBDataSet" msprop:Generator_UserDSName="ProjectDBDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Party_Members" msprop:Generator_TableClassName="Party_MembersDataTable" msprop:Generator_TableVarName="tableParty_Members" msprop:Generator_TablePropName="Party_Members" msprop:Generator_RowDeletingName="Party_MembersRowDeleting" msprop:Generator_RowChangingName="Party_MembersRowChanging" msprop:Generator_RowEvHandlerName="Party_MembersRowChangeEventHandler" msprop:Generator_RowDeletedName="Party_MembersRowDeleted" msprop:Generator_UserTableName="Party_Members" msprop:Generator_RowChangedName="Party_MembersRowChanged" msprop:Generator_RowEvArgName="Party_MembersRowChangeEvent" msprop:Generator_RowClassName="Party_MembersRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="memberCode" msprop:Generator_ColumnVarNameInTable="columnmemberCode" msprop:Generator_ColumnPropNameInRow="memberCode" msprop:Generator_ColumnPropNameInTable="memberCodeColumn" msprop:Generator_UserColumnName="memberCode" type="xs:int" />
+              <xs:element name="partyName" msprop:Generator_ColumnVarNameInTable="columnpartyName" msprop:Generator_ColumnPropNameInRow="partyName" msprop:Generator_ColumnPropNameInTable="partyNameColumn" msprop:Generator_UserColumnName="partyName">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="fName" msprop:Generator_ColumnVarNameInTable="columnfName" msprop:Generator_ColumnPropNameInRow="fName" msprop:Generator_ColumnPropNameInTable="fNameColumn" msprop:Generator_UserColumnName="fName">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="lName" msprop:Generator_ColumnVarNameInTable="columnlName" msprop:Generator_ColumnPropNameInRow="lName" msprop:Generator_ColumnPropNameInTable="lNameColumn" msprop:Generator_UserColumnName="lName">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="listPlace" msprop:Generator_ColumnVarNameInTable="columnlistPlace" msprop:Generator_ColumnPropNameInRow="listPlace" msprop:Generator_ColumnPropNameInTable="listPlaceColumn" msprop:Generator_UserColumnName="listPlace" type="xs:int" />
+              <xs:element name="mode" msprop:Generator_ColumnVarNameInTable="columnmode" msprop:Generator_ColumnPropNameInRow="mode" msprop:Generator_ColumnPropNameInTable="modeColumn" msprop:Generator_UserColumnName="mode" type="xs:boolean" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
